@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\FinShark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "FinShark\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Models\\Comment.cs",
+              "RelativeToolTip": "FinShark\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:11:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "FinShark\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Models\\Stock.cs",
+              "RelativeToolTip": "FinShark\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:11:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Program.cs",
+              "RelativeDocumentMoniker": "FinShark\\Program.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Program.cs",
+              "RelativeToolTip": "FinShark\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:35:14.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
