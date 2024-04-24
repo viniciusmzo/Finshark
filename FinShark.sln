@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinShark", "FinShark\FinShark.csproj", "{A568B528-0223-4487-B82E-3E3F3D7FAA77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinShark", "FinShark\FinShark.csproj", "{A568B528-0223-4487-B82E-3E3F3D7FAA77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{563773EE-B676-43FF-99FD-962E854745D4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
