@@ -1,6 +1,9 @@
-﻿namespace FinShark.Interfaces
+﻿using FinShark.Models;
+
+namespace FinShark.Interfaces
 {
     public interface ICommentRepository
     {
+        Task<List<Comment>> GetAllAsync();
     }
 }
