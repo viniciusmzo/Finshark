@@ -1,5 +1,4 @@
 ﻿using FinShark.Dtos.Comment;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FinShark.Dtos.Stock
 {

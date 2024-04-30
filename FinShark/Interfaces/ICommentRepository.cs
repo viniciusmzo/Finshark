@@ -1,5 +1,4 @@
-﻿using FinShark.Dtos.Comment;
-using FinShark.Models;
+﻿using FinShark.Models;
 
 namespace FinShark.Interfaces
 {

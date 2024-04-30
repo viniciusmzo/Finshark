@@ -1,5 +1,4 @@
 ﻿using FinShark.Data;
-using FinShark.Dtos.Comment;
 using FinShark.Interfaces;
 using FinShark.Models;
 using Microsoft.EntityFrameworkCore;

@@ -3,7 +3,6 @@ using FinShark.Dtos.Stock;
 using FinShark.Interfaces;
 using FinShark.Mappers;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace FinShark.Controllers
 {

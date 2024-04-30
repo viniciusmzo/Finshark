@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace FinShark.Dtos.Stock
+﻿namespace FinShark.Dtos.Stock
 {
     public class CreateStockRequestDto
     {
