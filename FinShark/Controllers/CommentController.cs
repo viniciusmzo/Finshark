@@ -28,7 +28,7 @@ namespace FinShark.Controllers
         }
 
         [HttpGet]
-        [Route("{id}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> GetById([FromRoute] int id) 
         {
             var comment = await _commentRepo.GetByIdAsync(id);
@@ -41,9 +41,14 @@ namespace FinShark.Controllers
             return Ok(comment.ToCommentDto());
         }
 
-        [HttpPost("{stockId}")]
+        [HttpPost("{stockId:int}")]
         public async Task<IActionResult> Create([FromRoute] int stockId, [FromBody] CreateCommentDto commentDto) 
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             var stockExisting = await _stockRepo.StockExists(stockId);
 
             if (stockExisting == false) 
@@ -58,9 +63,14 @@ namespace FinShark.Controllers
         }
 
         [HttpPut]
-        [Route("{id}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> Update([FromRoute] int id, [FromBody] UpdateCommentRequestDto updateDto) 
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             var comment = await _commentRepo.UpdateAsync(id, updateDto.ToCommentFromUpdate());
 
             if (comment == null) 
@@ -72,7 +82,7 @@ namespace FinShark.Controllers
         }
 
         [HttpDelete]
-        [Route("{id}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> Delete([FromRoute] int id) 
         {
             var commentModel = await _commentRepo.DeleteAsync(id);
