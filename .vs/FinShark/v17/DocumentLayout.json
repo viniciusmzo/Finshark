@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\FinShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "FinShark\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\StockController.cs",
-              "RelativeToolTip": "FinShark\\Controllers\\StockController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "FinShark\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "FinShark\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:49:50.042Z",
+              "WhenOpened": "2024-05-01T19:02:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "FinShark\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "FinShark\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:56:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "FinShark\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "FinShark\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwFQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:49:56.067Z",
               "EditorCaption": ""
             }
           ]
