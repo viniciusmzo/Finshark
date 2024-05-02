@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\FinShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "FinShark\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\StockController.cs",
-              "RelativeToolTip": "FinShark\\Controllers\\StockController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwD0AAAAAAAAA",
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "FinShark\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "FinShark\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:43:48.53Z",
+              "WhenOpened": "2024-05-02T21:51:29.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "FinShark\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "FinShark\\Controllers\\CommentController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAIwBUAAAAJAAAA",
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "FinShark\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "FinShark\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:39:18.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateStockRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "RelativeDocumentMoniker": "FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "RelativeToolTip": "FinShark\\Dtos\\Stock\\UpdateStockRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:37:18.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateStockRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeDocumentMoniker": "FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "RelativeToolTip": "FinShark\\Dtos\\Stock\\CreateStockRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:29:43.972Z",
+              "WhenOpened": "2024-05-02T21:51:11.641Z",
               "EditorCaption": ""
             }
           ]
