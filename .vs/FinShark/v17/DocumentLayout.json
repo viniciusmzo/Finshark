@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vinny\\source\\repos\\FinShark\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +23,12 @@
       "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|c:\\users\\vinny\\source\\repos\\finshark\\finshark\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A568B528-0223-4487-B82E-3E3F3D7FAA77}|FinShark\\FinShark.csproj|solutionrelative:finshark\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\appsettings.json",
+              "RelativeDocumentMoniker": "FinShark\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\appsettings.json",
+              "RelativeToolTip": "FinShark\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T22:30:40.362Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,35 +61,74 @@
               "RelativeDocumentMoniker": "FinShark\\Program.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Program.cs",
               "RelativeToolTip": "FinShark\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:45:49.546Z",
+              "WhenOpened": "2024-05-08T22:08:52.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FinShark\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FinShark\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABUAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:30:01.645Z",
+              "WhenOpened": "2024-05-08T22:04:50.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Account\\RegisterDto.cs",
               "RelativeDocumentMoniker": "FinShark\\Dtos\\Account\\RegisterDto.cs",
               "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Account\\RegisterDto.cs",
               "RelativeToolTip": "FinShark\\Dtos\\Account\\RegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:29:58.958Z",
+              "WhenOpened": "2024-05-08T22:04:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "FinShark\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Service\\TokenService.cs",
+              "RelativeToolTip": "FinShark\\Service\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:45:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "FinShark\\Dtos\\Account\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeToolTip": "FinShark\\Dtos\\Account\\NewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:05:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "FinShark\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\vinny\\source\\repos\\FinShark\\FinShark\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "FinShark\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:44:39.314Z",
               "EditorCaption": ""
             }
           ]
